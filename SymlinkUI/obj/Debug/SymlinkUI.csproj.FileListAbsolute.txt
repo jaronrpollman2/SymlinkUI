@@ -1,0 +1,19 @@
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.exe.config
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.exe
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.pdb
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.Form1.resources
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.Properties.Resources.resources
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.csproj.GenerateResource.cache
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.csproj.CoreCompileInputs.cache
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.exe
+C:\Users\Section 9\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.pdb
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.exe.config
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.exe
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\bin\Debug\SymlinkUI.pdb
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.csprojAssemblyReference.cache
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.Form1.resources
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.Properties.Resources.resources
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.csproj.GenerateResource.cache
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.csproj.CoreCompileInputs.cache
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.exe
+C:\Users\Jaron\source\repos\SymlinkUI\SymlinkUI\obj\Debug\SymlinkUI.pdb
